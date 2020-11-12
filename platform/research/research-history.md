@@ -14,6 +14,7 @@ This does not include research for Appeals projects, which is stored in differen
 ------
 ###  2020
 
+
 ### October 2020
 
 #### October 15 - 19 : Usability Testing the MVP Upcoming Appointment Questionnaire
@@ -35,6 +36,16 @@ This does not include research for Appeals projects, which is stored in differen
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/content/tier-2-content-IA-and-design/learning-center-mvp/discovery-and-research/card-sort)
 
 **Keywords:** categorization, nomenclature, tags, categories, audience, topics, labels, content authoring, tier 2, benefit-adjacent, VA account and profile, Records
+
+### 
+
+#### August 26: BDD UAT testing
+
+*GovernmentCIO, BAM 1. UX researcher: Christian Valla
+
+-5 participants
+
+-   [Research folder](https://https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/disability-compensation-claim/bdd/BDD%20Research/UAT-August-2020)
 
 #### August 20-28 : Vet Center - Outreach Specialist - Discovery Interviews
 *Ad Hoc: VSA Facilities, Leyda Hughes*
